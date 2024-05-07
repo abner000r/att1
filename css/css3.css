@@ -1,0 +1,47 @@
+
+.contenedor {
+    display: flex;
+    border: 1px solid black;
+    margin: 2%;
+  }
+  
+  .izquierda {
+    flex: 1;
+    margin: 3%;
+  }
+  
+  .espacio {
+    flex: 1;
+  }
+  
+  .derecha {
+    display: flex;
+    margin: 3%;
+  }
+  
+  .derecha img {
+    margin-right: 10px;
+  }
+  
+  .menu {
+    border: 1px solid black;
+    margin: 2%;
+  
+  }
+  .contenedor{
+    margin: 2%;
+    display: flex;
+    justify-content: space-between;
+  }
+  .espacio9{
+    margin: 2%;
+    display: flex;
+    justify-content: center;
+  }
+  .espacio8{
+    margin: 2%;
+
+  }
+  .n6{
+    margin: 2%;
+  }

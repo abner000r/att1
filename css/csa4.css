@@ -1,0 +1,39 @@
+.contenedor {
+    display: flex;
+    border: 1px solid black;
+    margin: 2%;
+  }
+  
+  .izquierda {
+    flex: 1;
+    margin: 3%;
+  }
+  
+  .espacio {
+    flex: 1;
+  }
+  
+  .derecha {
+    display: flex;
+    margin: 3%;
+  }
+  
+  .derecha img {
+    margin-right: 10px;
+  }
+  
+  .menu {
+    border: 1px solid black;
+    margin: 2%;
+  
+  }
+  
+  .container {
+    display: flex;
+    /* Utiliza flexbox para alinear los elementos */
+    justify-content: space-between;
+    /* Espacia los elementos uniformemente a lo largo del contenedor */
+  }
+  .n7{
+justify-content: center;
+  }

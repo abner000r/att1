@@ -1,0 +1,65 @@
+
+.contenedor {
+  display: flex;
+  border: 1px solid black;
+  margin: 2%;
+}
+
+.izquierda {
+  flex: 1;
+  margin: 3%;
+}
+
+.espacio {
+  flex: 1;
+}
+
+.derecha {
+  display: flex;
+  margin: 3%;
+}
+
+.derecha img {
+  margin-right: 10px;
+}
+
+.menu {
+  border: 1px solid black;
+  margin: 2%;
+
+}
+
+.container {
+  display: flex;
+  /* Utiliza flexbox para alinear los elementos */
+  justify-content: space-between;
+  /* Espacia los elementos uniformemente a lo largo del contenedor */
+}
+.elementos{
+  border: 1px solid black;
+  margin: 2%;
+}
+.n1{
+  margin: 1%;
+}
+.largo2{
+justify-content: space-between;}
+.elemento1 {
+  flex: 0 0 60%; /* Hace que el elemento ocupe el 60% del contenedor */
+  height: 100px; /* Altura del elemento */
+}
+
+.elemento2 {
+  flex: 0 0 40%; /* Hace que el elemento ocupe el 40% del contenedor */
+  height: 100px; /* Altura del elemento */
+}
+.cont2{
+  display: flex;
+  margin: 1%;
+}
+.largo{
+  width: 70%;
+}
+.corto{
+  width: 30%;
+}

@@ -1,0 +1,38 @@
+.contenedor {
+  display: flex;
+  border: 1px solid black;
+  margin: 2%;
+}
+
+.izquierda {
+  flex: 1;
+  margin: 3%;
+}
+
+.espacio {
+  flex: 1;
+}
+
+.derecha {
+  display: flex;
+  margin: 3%;
+}
+
+.derecha img {
+  margin-right: 10px;
+}
+
+.menu {
+  border: 1px solid black;
+  margin: 2%;
+
+}
+.contenedor{
+  margin: 2%;
+}
+.dist{
+  margin: 2%;
+}
+.dist2{
+  margin: 1%;
+}
